@@ -1,0 +1,9 @@
+JavaScript syntax
+
+* syntax is the way a programming language is written
+
+* API - Application Programming Interface - every language has its own API. Collection of functions and properties.
+
+* APIs inside APIs - jQuery is an API, has its own collection of functions and properties. Known as an embedded or extension API. jQuery uses native JavaScript API/library.
+
+* every programming language has a compiler that takes human readable code, and compiles it into bytes. Each compiler has its own native API (functions and properties).
