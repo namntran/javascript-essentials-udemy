@@ -1,0 +1,15 @@
+* need to figure out the good parts and the bad parts
+
+* prototype - is a shared object
+
+* LiveScript, JScript, ECMAScript, JavaScript - same language, different badge
+
+* early 90s - html or CSS couldn't keep up with interactivity. First appeared in Netscape. Netscape created Livescript in 10 days by Brendan Eich (from Java, Scheme, Self). Netscape and Sun Microsystems working together.
+
+* Scheme and Self are known to program architects
+
+* Sun Microsystems created Java, instructed to use Java in syntax. Sun Microsystems owns the trademark 'JavaScript'
+
+* MicroSoft reverse engineered the program and renamed to 'JScript'.
+
+* Netscape wanted cross platform compatibility or standard. European Computer Manufacturers Association turned it into a standard language - ECMAScript. 
