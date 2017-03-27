@@ -1,0 +1,14 @@
+Javascript Console
+
+* console - basic simple text interface, basic input and output text (terminal)
+
+* GUI hides all the commands, processes
+
+* JavaScript has its own console, commands taken into JavaScript engine and compiles in the browser and returns the code.
+
+* type commands directly in the console
+
+* running commands in the console will appear in the console window
+
+* open developer tools - Google Chrome (right click - 'inspect'), modify DOM and CSS, Firefox (right click - 'inspect element')
+
