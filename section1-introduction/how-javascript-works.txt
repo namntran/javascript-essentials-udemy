@@ -1,0 +1,12 @@
+How Javascipt works
+
+* all languages are in human readable format - syntax (for the programmers). computers can only understand byte code.
+
+* browsers have 3 main programs - each application is made up of many different programs:
+    1. DOM interpreter - takes hypertext markup language document and converts it, and displays it in browser
+    2. CSS interpreter - take CSS code and format the layout
+    3. JavaScript engine/interpreter (Google chrome has V8 engine)  - take javascript files and compile them on the computer and interpreted
+
+* JIT Compilers - Just In Time - source code (html, CSS, js files) downloaded on computer in real time, compiled on users computer so it can be displayed.
+
+* allow the native browsers to take care of the compilation process, we write the programs to be deliver to the interpreters
