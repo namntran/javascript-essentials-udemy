@@ -1,0 +1,15 @@
+What is an object?
+
+* a program can only contain nouns and verbs
+
+* nouns are descriptive - each object has properties or nouns (apple has weight, height, color),
+
+* verbs are performing an action - have functions (eat or throw the apple)
+
+* when function is contained within an object, called a method 
+
+* encapsulation - grouping data together whether it be nouns or verbs, or both (think of a capsule)
+
+* objects can obtain objects (hierarchy)
+
+* objects are a logical grouping of data and functions 
