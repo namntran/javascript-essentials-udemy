@@ -1,0 +1,15 @@
+Primitive Data
+
+*invalid javascript - strings '', need \
+
+* concatenate + strings
+
+* numbers - integers (whole number), float (decimal)
+
+* issues with floating point numbers
+
+* boolean types - true or false
+
+* null/ undefined - there's no value, empty container (opened an empty box)
+
+* NaN - Not a Number "hello" / 4
