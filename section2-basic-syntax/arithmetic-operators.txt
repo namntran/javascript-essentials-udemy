@@ -1,0 +1,23 @@
+Arithmetic operator's, BODMAs and concatenation
+
+* Arithmetic operator's: + - * / % ++ --
+
+* BODMAS (only to mathematic equations, follows the law of mathematics)
+Brackets
+Orders (power)
+Divisions
+Muliplication
+Addition
+Subtraction
+
+* strings take precedent over numbers 
+4 + "string"
+"4string"
+
+* % is the remainder of the division operator
+
+* Brackets
+(2 + 1) / 10
+0.3
+
+
