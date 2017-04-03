@@ -1,0 +1,11 @@
+Variables and Assignments
+
+* variables are essentially empty boxes. You create a box to store information.
+
+* program needs to remember certain values
+
+* variables store a value for us to use at a later date
+
+* var - define a variable, need to give the variable a name
+  - can't start variables with a number, avoid special characters
+  - camelcase e.g. personName;
